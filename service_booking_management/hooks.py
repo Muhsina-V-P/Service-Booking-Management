@@ -228,6 +228,10 @@ app_license = "mit"
 # 	}
 # ]
 
+
+fixtures = ["Workflow", "Workflow State", "Workflow Action Master"
+]
+
 # Authentication and authorization
 # --------------------------------
 
